@@ -1,2 +1,2 @@
 # Excel-Clone
-This is an exact replica of Google Excel Sheet using HTML, CSS and JavaScript.
+This is an exact replica of Microsoft Excel Sheet using HTML, CSS and JavaScript.
